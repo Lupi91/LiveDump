@@ -4,6 +4,6 @@ A lightweight tool designed for live forensics. It runs directly from a USB driv
 **Example Usage: collection of AnyDesk artifacts**<br>
 <br>![](/Demo.gif?raw=true)
 <br>
-**Download**
-You can download the windows executable from the [Latest Release.](https://github.com/Lupi91/LiveDump/releases/latest)
+**Download**<br>
+You can download the windows executable from the [Releases page.](https://github.com/Lupi91/LiveDump/releases/latest)
 
